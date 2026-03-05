@@ -13,6 +13,6 @@ public class LargestNumber {
             }
         }
 
-        System.out.println("Largest number: " + largest);
+        System.out.println("Largest number is: " + largest);
     }
 }
